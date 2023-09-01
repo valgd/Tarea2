@@ -1,0 +1,53 @@
+
+body{
+    background-color: #c3e3fd;
+}
+
+header{
+    text-align: center;
+    background-color: #142157 ;
+    color: white;
+}
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 1.1rem;
+}
+
+.conclusion{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.biblio{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/* PIE DE PÁGINA */
+footer{
+    background-color: #15297c;
+    color: white;
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+
+
+footer .pie {
+    text-align: center; 
+    color: white;
+    font-size: 1rem;
+}
+
+footer .derechos {
+    background: #142157;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+}
